@@ -3,6 +3,20 @@
 Poweramp EQ presets for various devices. Use `convert.py` to convert them to
 [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) format for Windows.
 
+## Presets
+
+| Device | Type |
+|--------|------|
+| BT8482 | Bluetooth adapter / headset |
+| GZ-2028 | Speaker |
+| Honor Pad 10 | Tablet |
+| KZ EDX Pro X | IEM |
+| Ninja NE03 | Earphone |
+| Nubwo NS030 | Gaming headset |
+| QKZ Hi6T | IEM |
+| Robot RB120 | Speaker |
+| Vivan Q17 | Speaker |
+
 ## How to use the converter
 
 ### 1. Export a preset from Poweramp (Android)
