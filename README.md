@@ -17,6 +17,12 @@ Poweramp EQ presets for various devices. Use `convert.py` to convert them to
 | Robot RB120 | Speaker |
 | Vivan Q17 | Earphone |
 
+## Upcoming
+
+| Device | Type |
+|--------|------|
+| Moondrop Chu 3 | IEM |
+
 ## How to use the converter
 
 ### 1. Export a preset from Poweramp (Android)
