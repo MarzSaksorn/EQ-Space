@@ -7,15 +7,15 @@ Poweramp EQ presets for various devices. Use `convert.py` to convert them to
 
 | Device | Type |
 |--------|------|
-| BT8482 | Bluetooth adapter / headset |
+| BT8482 | Car stereo |
 | GZ-2028 | Speaker |
 | Honor Pad 10 | Tablet |
 | KZ EDX Pro X | IEM |
 | Ninja NE03 | Earphone |
-| Nubwo NS030 | Gaming headset |
+| Nubwo NS030 | 2.1 speaker |
 | QKZ Hi6T | IEM |
 | Robot RB120 | Speaker |
-| Vivan Q17 | Speaker |
+| Vivan Q17 | Earphone |
 
 ## How to use the converter
 
