@@ -23,7 +23,7 @@ Poweramp EQ presets for various devices. Use `convert.py` to convert them to
 |--------|------|
 | Moondrop Chu 3 | IEM |
 
-Feel free to [request EQ for a specific device](https://github.com/MarzSaksorn/EQ-Space/issues) by opening an issue.
+Feel free to [request EQ for a specific device](https://github.com/MarzSaksorn/EQ-Space/issues) by opening an issue, or open a pull request to contribute your own presets.
 
 ## How to use the converter
 
